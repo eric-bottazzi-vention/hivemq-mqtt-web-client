@@ -239,7 +239,7 @@ div.messageText {
 }
 
 div.icon-arrow-chevron {
-    background-image: url('../mqtt/assets/chevron-double-3-01.png');
+    background-image: url('../assets/chevron-double-3-01.png');
     min-height: 32px;
     min-width: 32px;
     background-repeat: no-repeat;
@@ -247,7 +247,7 @@ div.icon-arrow-chevron {
 }
 
 .closed div.icon-arrow-chevron {
-    background-image: url('../mqtt/assets/chevron-double-3-02.png');
+    background-image: url('../assets/chevron-double-3-02.png');
 }
 
 #connectionStatus {
